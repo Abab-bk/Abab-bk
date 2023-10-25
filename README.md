@@ -1,6 +1,6 @@
 # Hey 👋 
 <img width="400" src="https://count.getloli.com/get/@beanflame?theme=gelbooru">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=Abab-bk&locale=cn&show_icons=true">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Abab-bk&count_private=true">
 
 # 🌟 **I can...**
 
