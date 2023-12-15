@@ -12,6 +12,6 @@
 </div>
 
 # 🌟 **And**
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abab-bk&locale=cn&langs_count=10000&layout=compact">
+<img  src="https://github-readme-stats-mauve-three-97.vercel.app/api?username=Abab-bk&locale=cn&langs_count=10000&layout=compact">
 
 
