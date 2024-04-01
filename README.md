@@ -1,7 +1,7 @@
 # Hey 👋 
 Im Abab-bk aka B TO THE R or The God Of Flowers.
 
-About M.
+About Me.
 - CEO at [AcidWallStudio](www.acidwall.icu)
 - Game Dever.
 - Love Godot.
