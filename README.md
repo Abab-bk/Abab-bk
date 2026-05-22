@@ -7,4 +7,4 @@ Likes:
 - TypeScript
 - C#
 
-Check out [rorokaii.com](http://rorokaii.com) to see my games.
+Check out [rorokaii.com](http://rorokaii.com) to see my games & blogs.
